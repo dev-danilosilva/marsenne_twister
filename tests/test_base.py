@@ -1,5 +1,5 @@
-from project_name.base import NAME
+from marsenne_twister.base import NAME
 
 
 def test_base():
-    assert NAME == "project_name"
+    assert NAME == "marsenne_twister"
